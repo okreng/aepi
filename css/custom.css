@@ -1,2 +1,17 @@
 /*custom styles*/
 
+div.page-header {
+	text-align:center;
+}
+
+p.about {
+	text-align: center;
+}
+
+h1.about {
+	text-align: center;
+}
+
+div.well {
+	text-align: center;
+}
