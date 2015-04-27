@@ -10,8 +10,39 @@ p.about {
 
 h1.about {
 	text-align: center;
+	font-family: "Times New Roman", Times, serif;
 }
 
 div.well {
 	text-align: center;
+}
+
+.carousel-inner > .item > img {
+	margin: 0 auto;
+}
+
+body {
+	background-color: #5C83CC;
+}
+
+nav.navbar {
+	background-color: #8DF1FF;
+}
+
+div.about {
+	background-color: #8DF1FF;
+}
+
+div.page-header {
+	color: #FFFFFF;
+	font-family: "Times New Roman", Times, serif;
+}
+
+h1.small {
+	color: #FFFFFF;
+}
+
+div.well {
+	background-color: #8DF1FF;
+	color: #000000;
 }
